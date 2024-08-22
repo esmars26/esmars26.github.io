@@ -2,3 +2,8 @@ body {
   font-family: "Didact Gothic", sans-serif;
   background-color: rgb(214, 239, 234);
 }
+
+#pfp {
+  size: 200px;
+}
+
