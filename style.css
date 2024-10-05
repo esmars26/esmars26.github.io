@@ -1,10 +1,11 @@
 body {
   background-color: rgb(214, 239, 234);
+  font-family: sans-serif;
 }
 
 .div {
-  color: rgb(128, 128, 128)
-  border-radius: 25px
-  width: 200px
-  hight: 150px
+  color: rgb(128, 128, 128);
+  border-radius: 25px;
+  width: 200px;
+  hight: 150px;
 }
