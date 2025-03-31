@@ -56,7 +56,7 @@ footer {
 .chip {
   display: inline-block;
   color: black;
-  padding: 8px 20px;
+  padding: 8px 8px;
   border-radius: 25px;
   background-color: #99ccff;
   margin-top: 8px;
