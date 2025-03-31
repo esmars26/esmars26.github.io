@@ -1,6 +1,6 @@
 /* style.css */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Geist', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f5f5f5;
@@ -55,8 +55,8 @@ footer {
 
 .chip {
   display: inline-block;
-  padding: 0 25px;
-  height: 50px;
+  padding: 0 20px;
+  height: 25px;
   font-size: 16px;
   line-height: 50px;
   border-radius: 25px;
