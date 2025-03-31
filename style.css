@@ -12,7 +12,7 @@ a {
         }
 
 header {
-    background-color: #333;
+    background-color: #01143d;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -43,8 +43,12 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: #01143d;
     color: #fff;
     text-align: center;
     padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
